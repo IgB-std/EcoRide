@@ -1,0 +1,10 @@
+# Fichiers de configuration sensibles
+config/db.php
+config/security.php
+config/auth.php
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
